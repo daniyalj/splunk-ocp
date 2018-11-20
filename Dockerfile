@@ -6,4 +6,4 @@ COPY pswd /etc/passwd
 USER root
 RUN adduser splunk sudo
 
-USER 999
+#USER 999
